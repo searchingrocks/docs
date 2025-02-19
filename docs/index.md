@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: API Refrence
       link: /api-refrence/uc
+    - theme: alt
+      text: Public Instances
+      links: /public-instances
 
 features:
   - title: Super Fast

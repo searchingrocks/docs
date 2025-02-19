@@ -1,0 +1,5 @@
+services:
+  web:
+    image: ghcr.io/searchingrocks/docs:main
+    environment:
+      - SERVICE_FQDN_SearchingRocksDocs_3000=${SERVICE_FQDN_SearchingRocksDocs_3000}

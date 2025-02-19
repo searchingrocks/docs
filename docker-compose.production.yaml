@@ -1,0 +1,5 @@
+services:
+  web:
+    image: ghcr.io/searchingrocks/docs:main
+    ports:
+      - "3000:3000"

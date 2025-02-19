@@ -28,7 +28,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/searchingrocks' },
-      { icon: 'telegram', link: '@searchingrocks' }
+      { icon: 'telegram', link: 'https://t.me/searchingrocks' }
     ]
   }
 })

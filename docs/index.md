@@ -12,7 +12,7 @@ hero:
       link: /documentation/getting-started
     - theme: alt
       text: API Refrence
-      link: /api-examples
+      link: /api-refrence/uc
 
 features:
   - title: Super Fast

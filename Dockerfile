@@ -8,4 +8,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD npm run docs:build && npm run docs:preview
+CMD npm run docs:build && npm run docs:preview --port 3000

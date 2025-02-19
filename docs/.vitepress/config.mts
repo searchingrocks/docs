@@ -8,21 +8,27 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'API', link: 'api-refrence/uc' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Documentation',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Getting Started', link: 'documentation/getting-started' }
+        ]
+      },
+      {
+        text: "API Refrence",
+        items: [
+          { text: 'Basics', link: 'api-refrence/uc' },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/searchingrocks' }
+      { icon: 'github', link: 'https://github.com/searchingrocks' },
+      { icon: 'telegram', link: '@searchingrocks' }
     ]
   }
 })

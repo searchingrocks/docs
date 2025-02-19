@@ -5,21 +5,21 @@ layout: home
 hero:
   name: "Searching Rocks"
   text: "Where searching is a pleasure"
-  tagline: My great project tagline
+  tagline: Screw for profit data aggregators just become your own!
   actions:
     - theme: brand
-      text: Documentation
-      link: /markdown-examples
+      text: Get Started
+      link: /documentation/getting-started
     - theme: alt
       text: API Refrence
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Super Fast
+    details: Search billions of data points with ease!
+  - title: More Secure
+    details: Compared to 0t.rocks, we have user password authentication
+  - title: Better Looks
+    details: All the pages are enhanced with Vuetify, so no ugly pages!
 ---
 

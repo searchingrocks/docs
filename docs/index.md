@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /documentation/getting-started
+      link: /documentation/information
     - theme: alt
       text: API Refrence
       link: /api-refrence/uc
